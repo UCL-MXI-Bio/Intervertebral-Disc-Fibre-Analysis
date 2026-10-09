@@ -1,0 +1,10 @@
+# Direct third-party dependencies used by the two scripts.
+# Versions are intentionally unpinned: the publication environment has not been supplied.
+numpy
+pandas
+scipy
+joblib
+lxml
+opencv-python-headless
+tifffile
+matplotlib
